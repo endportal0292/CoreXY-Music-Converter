@@ -32,9 +32,7 @@ Program for converting musical gcode to coreXY mechanics
 
 <a id="manual"></a>
 ## Инструкция
-
-
- 
+<br/>
 
 <a id="working"></a>
 ### Принцип работы
