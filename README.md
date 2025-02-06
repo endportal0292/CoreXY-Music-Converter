@@ -34,10 +34,7 @@ Program for converting musical gcode to coreXY mechanics
 ## Инструкция
 
 
-
-
-
-
+ 
 
 <a id="working"></a>
 ### Принцип работы
