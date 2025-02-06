@@ -1,3 +1,5 @@
+[![Foo](https://img.shields.io/badge/README-ENGLISH-blueviolet.svg?style=flat-square)](https://github-com.translate.goog/endportal0292/CoreXY-Music-Converter?_x_tr_sl=ru&_x_tr_tl=en)  
+
 # CoreXY-Music-Converter
 Program for converting musical gcode to coreXY mechanics
 - Конвертирование [музыкального gcode](https://www.ultimatesolver.com/en/midi2gcode) для механики CoreXY
