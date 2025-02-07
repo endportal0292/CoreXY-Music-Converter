@@ -1,4 +1,4 @@
-[![Foo](English documentation)](https://github-com.translate.goog/endportal0292/CoreXY-Music-Converter?_x_tr_sl=ru&_x_tr_tl=en)  
+(English documentation)](https://github-com.translate.goog/endportal0292/CoreXY-Music-Converter?_x_tr_sl=ru&_x_tr_tl=en)  
 
 # CoreXY-Music-Converter
 Program for converting musical gcode to coreXY mechanics
@@ -97,8 +97,8 @@ Gcode файл с музыкой готов, но он будет коррект
 ### Настройки
 - Настройки влияют на конечный gcode
 - При изменении любой настройки надо будет заново конвертировать gcode
-- После 5 секунд бездействия(отсутствия изменения настроек) данные будут автоматически сохранены, а внизу по центру будет показана надпись "Сохранение"
 ![saveing](doc/saving.jpg)
+  - После 5 секунд бездействия(отсутствия изменения настроек) данные будут автоматически сохранены, а внизу по центру будет показана надпись "Сохранение"
 - Всего 4 настройки:
   - [Тип прошивки](#firmware)
   - [Ускорение](#accel)
