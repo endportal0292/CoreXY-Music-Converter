@@ -2,8 +2,8 @@
 
 # CoreXY-Music-Converter
 Program for converting musical gcode to coreXY mechanics
-- Конвертирование музыкального gcode для механики CoreXY
-- Программа подходит к 3д принтерам с механикой CoreXY
+- Преобразование музыкального gcode для механики CoreXY
+- Программа позволяет сыграть gcode-музыку на механике CoreXY
 - Выключение моторов после окончания воспроизведения
 - Пауза перед и после музыки
 - gcode для Klipper и Marlin
