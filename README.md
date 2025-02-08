@@ -6,7 +6,7 @@ Program for converting musical gcode to coreXY mechanics
 - Программа позволяет сыграть gcode-музыку на механике CoreXY
 - Выключение моторов после окончания воспроизведения
 - Пауза перед и после музыки
-- gcode для Klipper и Marlin
+- Синтаксис gcode'а для Klipper и Marlin
 
 **АВТОР НЕ НЕСЁТ ОТВЕТСТВЕННОСТЬ ЗА ВОЗМОЖНЫЕ ПОВРЕЖДЕНИЯ 3Д ПРИНТЕРА!!!**
 
