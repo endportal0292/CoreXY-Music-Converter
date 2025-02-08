@@ -1,13 +1,12 @@
-(English documentation)](https://github-com.translate.goog/endportal0292/CoreXY-Music-Converter?_x_tr_sl=ru&_x_tr_tl=en)  
+[English documentation](https://github-com.translate.goog/endportal0292/CoreXY-Music-Converter?_x_tr_sl=ru&_x_tr_tl=en)  
 
 # CoreXY-Music-Converter
 Program for converting musical gcode to coreXY mechanics
-- Конвертирование [музыкального gcode](https://www.ultimatesolver.com/en/midi2gcode) для механики CoreXY
+- Конвертирование музыкального gcode для механики CoreXY
 - Программа подходит к 3д принтерам с механикой CoreXY
 - Выключение моторов после окончания воспроизведения
 - Пауза перед и после музыки
 - gcode для Klipper и Marlin
-- Автосохранение настроек
 
 **АВТОР НЕ НЕСЁТ ОТВЕТСТВЕННОСТЬ ЗА ВОЗМОЖНЫЕ ПОВРЕЖДЕНИЯ 3Д ПРИНТЕРА!!!**
 
@@ -27,8 +26,8 @@ Program for converting musical gcode to coreXY mechanics
 
 <a id="install"></a>
 ## Установка
-- Программа доступна в виде приложения для Windows(32, 64-bit), MacOS, Linux
-- Также в архиве есть исходный код написанный на Processing 3.5.4(Java)
+- Программа доступна в виде приложения для Windows(32, 64-bit)
+- Также в [архиве](https://github.com/endportal0292/CoreXY-Music-Converter/archive/refs/heads/main.zip) есть исходный код написанный на Processing 3.5.4(Java)
 
 
 <a id="manual"></a>
