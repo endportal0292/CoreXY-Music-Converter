@@ -26,7 +26,7 @@ Program for converting musical gcode to coreXY mechanics
 
 <a id="install"></a>
 ## Установка
-- Программа доступна в виде приложения для Windows(32, 64-bit)
+- Программа доступна в виде приложения для Windows(32, 64-bit). Для работы нужна Java актуальной версии(для **windows64 with java** java уже встроена)
 - Также в [архиве](https://github.com/endportal0292/CoreXY-Music-Converter/archive/refs/heads/main.zip) есть исходный код написанный на Processing 3.5.4(Java)
 
 
